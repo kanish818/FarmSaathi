@@ -13,10 +13,6 @@
 ## Overview
 FarmSaathi is an accessible agricultural assistance platform designed to bridge the technology gap for farmers across India. With voice-enabled features in multiple regional languages (Hindi, English, and Punjabi), FarmSaathi provides critical agricultural information, personalized crop recommendations, and financial guidance through an intuitive interface.
 
-🔗 **Live Website:** [http://farmsathipragatiai.netlify.app](http://farmsathipragatiai.netlify.app)
-
-**Watch Walkthrough of the website (Highly Recommended!):** [YouTube Demo](https://www.youtube.com/watch?v=1gsWaDogjxM)
-
 ## Key Features
 ### Voice-Enabled Multilingual Support
 * Complete voice interface in Hindi, English, and Punjabi
